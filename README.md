@@ -1,8 +1,8 @@
-#Point 8 Game :
+# Point 8 Game :
 
 >  This code is just a Simulation using the random library of a **number guessing game** with logic inspired from the show [Alice in Borderland [S2E5]](https://www.netflix.com/title/80200575).
 
-**Rules: **
+** Rules: **
 > - All playes guess a number between 1 and 100.
 - Whichever player Guesses closest to the Average number multiplied by 0.8 wins the Round.
 - Player(s) that do not win get -1 point and move to next round.
