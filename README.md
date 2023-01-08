@@ -9,6 +9,6 @@ This code is just a simple Simulation of a **number guessing game** with logic i
 > - Player(s) that hit -10 points get eliminated and remaining player(s) move to the next round.
 > - Either one or no players end up winning the game and survive.
 
-to download and run the python exe file : [Click Here](dist/pointEightSimulation.exe)
+to download and run the python exe file : [Click Here](pointEightSimulation.exe)
 
 to download and edit the .py file and change variables for the simulations : [Click Here](pointEightSimulation.py)
