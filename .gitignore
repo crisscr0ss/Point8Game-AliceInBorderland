@@ -1,2 +1,2 @@
-build
-pointEightSimulation.spec
+build/*
+pointEightSimulation.spec/*
